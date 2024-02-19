@@ -56,8 +56,9 @@
   }
   /* end hero section */
 
+  /* start 2rd section */
   .black-1 {
-    height: 600px;
+    height: 550px;
     width: 100%;
     background-color: black;
   }
@@ -73,6 +74,59 @@
   .font-5 {
     color: white;
     font-size: 24px;
+  }
+  .box-2 {
+    height: 400px;
+    width: 45%;
+    margin-top: 70px;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  /* start 3rd section */
+  .black-2 {
+    height: 650px;
+    background-color: black;
+  }
+  .box-3 {
+    height: 400px;
+    width: 45%;
+    margin-top: 150px;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .box-4 {
+    height: 400px;
+    width: 45%;
+    margin-top: 180px;
+  }
+  .font-6 {
+    font-size: 46px;
+  }
+  .font-7 {
+    font-size: 29px;
+  }
+
+  /* start 4th section */
+  .black-3 {
+    height: 400px;
+    background-color: black;
+  }
+  .box-5 {
+    height: 350px;
+    width: 40%;
+    margin-left: 15%;
+    padding-top: 5%;
+  }
+  .font-8 {
+    font-size: 60px;
+  }
+  .font-9 {
+    font-size: 28px;
   }
 }
 /* desktop */
@@ -137,7 +191,7 @@
   }
   /* end hero section */
   .black-1 {
-    height: 600px;
+    height: 520px;
     width: 100%;
     background-color: black;
   }
@@ -154,6 +208,57 @@
     color: white;
     font-size: 24px;
   }
+  .box-2 {
+    height: 350px;
+    width: 45%;
+    margin-top: 80px;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  /* start 3rd section */
+  .black-2 {
+    height: 650px;
+    background-color: black;
+  }
+  .box-3 {
+    height: 400px;
+    width: 45%;
+    margin-top: 150px;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .box-4 {
+    height: 400px;
+    width: 45%;
+    margin-top: 180px;
+  }
+  .font-6 {
+    font-size: 60px;
+  }
+  .font-7 {
+    font-size: 23px;
+  }
+  /* start 4th section */
+  .black-3 {
+    height: 400px;
+    background-color: black;
+  }
+  .box-5 {
+    height: 350px;
+    width: 40%;
+    margin-left: 7%;
+    padding-top: 5%;
+  }
+  .font-8 {
+    font-size: 50px;
+  }
+  .font-9 {
+    font-size: 23px;
+  }
 }
 
 @media only screen and (min-width: 1400px) {
@@ -161,6 +266,16 @@
     margin-left: 250px;
   }
   /* end hero section */
+  .font-5 {
+    color: white;
+    font-size: 30px;
+  }
+  .font-6 {
+    font-size: 60px;
+  }
+  .font-7 {
+    font-size: 32px;
+  }
 }
 
 /* tablets */
@@ -232,7 +347,7 @@
   /* end hero section */
 
   .black-1 {
-    height: 600px;
+    height: 650px;
     width: 100%;
     background-color: black;
   }
@@ -252,6 +367,65 @@
     font-size: 18px;
     text-align: center;
     padding-top: 20px;
+  }
+  .box-2 {
+    height: 350px;
+    width: 90%;
+    margin-top: 80px;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+  }
+  /* start 3rd section */
+
+  .black-2 {
+    height: 730px;
+    background-color: black;
+  }
+  .box-3 {
+    height: 400px;
+    width: 45%;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+  }
+  .box-4 {
+    height: 200px;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+  }
+  .font-6 {
+    font-size: 39px;
+    text-align: center;
+  }
+  .font-7 {
+    font-size: 22px;
+    text-align: center;
+  }
+
+  /* start 4th section */
+  .black-3 {
+    height: 250px;
+    background-color: black;
+  }
+  .box-5 {
+    height: 150px;
+    width: 90%;
+    margin-left: 7%;
+    padding-top: 5%;
+  }
+  .font-8 {
+    font-size: 35px;
+    text-align: center;
+  }
+  .font-9 {
+    font-size: 20px;
+    text-align: center;
   }
 }
 
@@ -327,12 +501,12 @@
   /* end hero section */
 
   .black-1 {
-    height: 600px;
+    height: 650px;
     width: 100%;
     background-color: black;
   }
   .box-1 {
-    height: 250px;
+    height: 200px;
     width: 90%;
     margin: auto;
   }
@@ -347,5 +521,64 @@
     font-size: 18px;
     text-align: center;
     padding-top: 20px;
+  }
+  .box-2 {
+    height: 350px;
+    width: 90%;
+    margin-top: 80px;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+  }
+  /* start 3rd section */
+
+  .black-2 {
+    height: 650px;
+    background-color: black;
+  }
+  .box-3 {
+    height: 400px;
+    width: 45%;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+  }
+  .box-4 {
+    height: 150px;
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+  }
+  .font-6 {
+    font-size: 35px;
+    text-align: center;
+  }
+  .font-7 {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  /* start 4th section */
+  .black-3 {
+    height: 200px;
+    background-color: black;
+  }
+  .box-5 {
+    height: 150px;
+    width: 90%;
+    margin-left: 7%;
+    padding-top: 5%;
+  }
+  .font-8 {
+    font-size: 35px;
+    text-align: center;
+  }
+  .font-9 {
+    font-size: 20px;
+    text-align: center;
   }
 }

@@ -128,6 +128,97 @@
   .font-9 {
     font-size: 28px;
   }
+  /* start 5th section */
+  .black-4 {
+    height: 600px;
+    background-color: black;
+  }
+  .box-6 {
+    height: 400px;
+    width: 45%;
+    margin-top: 100px;
+    background-image: url(https://occ-0-1917-64.1.nflxso.net/dnm/api/v6/19OhWN2dO19C9txTON9tvTFtefw/AAAABejKYujIIDQciqmGJJ8BtXkYKKTi5jiqexltvN1YmvXYIfX8B9CYwooUSIzOKneblRFthZAFsYLMgKMyNfeHwk16DmEkpIIcb6A3.png?r=f55);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .box-7 {
+    height: 400px;
+    width: 45%;
+    margin-top: 150px;
+  }
+  .font-10 {
+    font-size: 52px;
+  }
+  .font-11 {
+    font-size: 23px;
+  }
+  /* start 5th section */
+
+  .black-5 {
+    height: 900px;
+    background-color: black;
+  }
+  .box-8 {
+    height: 150px;
+    width: 80%;
+    margin: auto;
+  }
+  .font-12 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    padding-top: 60px;
+  }
+  .box-9 {
+    height: 80px;
+    width: 95%;
+
+    margin: auto;
+    margin-top: 10px;
+    background-color: #2d2d2d;
+  }
+  .font-13 {
+    padding-top: 20px;
+    padding-left: 25px;
+    font-size: 25px;
+  }
+  .font-14 {
+    font-size: 50px;
+    padding-right: 25px;
+    padding-top: 15px;
+  }
+  .box-10 {
+    height: 50px;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 22px;
+  }
+  .box-11 {
+    height: 100px;
+    width: 55%;
+    margin: auto;
+  }
+  .coustom-input-2 {
+    background-color: black;
+    outline: none;
+    width: 420px;
+    height: 60px;
+  }
+  .coustom-input-2::placeholder {
+    color: white;
+    padding-left: 10px;
+  }
+  .coustom-btn {
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 25px;
+  }
 }
 /* desktop */
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -217,7 +308,7 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
-  /* start 3rd section */
+  /* start 2nd section */
   .black-2 {
     height: 650px;
     background-color: black;
@@ -242,7 +333,7 @@
   .font-7 {
     font-size: 23px;
   }
-  /* start 4th section */
+  /* start 3rd section */
   .black-3 {
     height: 400px;
     background-color: black;
@@ -258,6 +349,100 @@
   }
   .font-9 {
     font-size: 23px;
+  }
+
+  /* start 4th section */
+  .black-4 {
+    height: 600px;
+    background-color: black;
+  }
+  .box-6 {
+    height: 400px;
+    width: 45%;
+    margin-top: 100px;
+    background-image: url(https://occ-0-1917-64.1.nflxso.net/dnm/api/v6/19OhWN2dO19C9txTON9tvTFtefw/AAAABejKYujIIDQciqmGJJ8BtXkYKKTi5jiqexltvN1YmvXYIfX8B9CYwooUSIzOKneblRFthZAFsYLMgKMyNfeHwk16DmEkpIIcb6A3.png?r=f55);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .box-7 {
+    height: 400px;
+    width: 45%;
+    margin-top: 150px;
+  }
+  .font-10 {
+    font-size: 52px;
+  }
+  .font-11 {
+    font-size: 25px;
+  }
+  /* start 5th section */
+
+  .black-5 {
+    height: 900px;
+    background-color: black;
+  }
+  .box-8 {
+    height: 150px;
+    width: 80%;
+    margin: auto;
+  }
+  .font-12 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    padding-top: 60px;
+  }
+  .box-9 {
+    height: 80px;
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #2d2d2d;
+  }
+  .font-13 {
+    padding-top: 20px;
+    padding-left: 25px;
+    font-size: 25px;
+  }
+  .font-14 {
+    font-size: 50px;
+    padding-right: 25px;
+    padding-top: 15px;
+  }
+  .box-10 {
+    height: 50px;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 22px;
+  }
+  .box-11 {
+    height: 100px;
+    width: 55%;
+    margin: auto;
+  }
+  .coustom-input-2 {
+    background-color: black;
+    outline: none;
+    width: 320px;
+    height: 60px;
+  }
+  .coustom-input-2::placeholder {
+    color: white;
+    padding-left: 10px;
+  }
+  .coustom-btn {
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 25px;
+  }
+  .font-15 {
+    font-size: 19px;
   }
 }
 
@@ -275,6 +460,13 @@
   }
   .font-7 {
     font-size: 32px;
+  }
+  .coustom-input-2 {
+    background-color: black;
+    outline: none;
+    width: 420px;
+    height: 60px;
+    margin-left: 70px;
   }
 }
 
@@ -378,7 +570,7 @@
     background-size: cover;
     margin: auto;
   }
-  /* start 3rd section */
+  /* start 2nd section */
 
   .black-2 {
     height: 730px;
@@ -408,7 +600,7 @@
     text-align: center;
   }
 
-  /* start 4th section */
+  /* start 3rd section */
   .black-3 {
     height: 250px;
     background-color: black;
@@ -426,6 +618,103 @@
   .font-9 {
     font-size: 20px;
     text-align: center;
+  }
+
+  /* start 4th section */
+  .black-4 {
+    height: 600px;
+    background-color: black;
+  }
+  .box-6 {
+    height: 400px;
+    width: 45%;
+    margin: auto;
+    background-image: url(https://occ-0-1917-64.1.nflxso.net/dnm/api/v6/19OhWN2dO19C9txTON9tvTFtefw/AAAABejKYujIIDQciqmGJJ8BtXkYKKTi5jiqexltvN1YmvXYIfX8B9CYwooUSIzOKneblRFthZAFsYLMgKMyNfeHwk16DmEkpIIcb6A3.png?r=f55);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .box-7 {
+    height: 150px;
+    width: 95%;
+    margin: auto;
+    margin-top: 30px;
+  }
+  .font-10 {
+    font-size: 40px;
+    text-align: center;
+  }
+  .font-11 {
+    font-size: 19px;
+    text-align: center;
+  }
+  /* start 5th section */
+
+  .black-5 {
+    height: 850px;
+    background-color: black;
+  }
+  .box-8 {
+    height: 100px;
+    width: 80%;
+    margin: auto;
+  }
+  .font-12 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 35px;
+    padding-top: 40px;
+  }
+  .box-9 {
+    height: 80px;
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #2d2d2d;
+  }
+  .font-13 {
+    padding-top: 20px;
+    padding-left: 25px;
+    font-size: 25px;
+  }
+  .font-14 {
+    font-size: 50px;
+    padding-right: 25px;
+    padding-top: 15px;
+  }
+  .box-10 {
+    height: 50px;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 22px;
+  }
+  .box-11 {
+    height: 100px;
+    width: 80%;
+    margin: auto;
+  }
+  .coustom-input-2 {
+    background-color: black;
+    outline: none;
+    width: 400px;
+    height: 60px;
+  }
+  .coustom-input-2::placeholder {
+    color: white;
+    padding-left: 10px;
+  }
+  .coustom-btn {
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 25px;
+  }
+  .font-15 {
+    font-size: 19px;
   }
 }
 
@@ -580,5 +869,105 @@
   .font-9 {
     font-size: 20px;
     text-align: center;
+  }
+
+  /* start 5th section */
+  .black-4 {
+    height: 500px;
+    background-color: black;
+  }
+  .box-6 {
+    height: 300px;
+    width: 90%;
+    margin: auto;
+    background-image: url(https://occ-0-1917-64.1.nflxso.net/dnm/api/v6/19OhWN2dO19C9txTON9tvTFtefw/AAAABejKYujIIDQciqmGJJ8BtXkYKKTi5jiqexltvN1YmvXYIfX8B9CYwooUSIzOKneblRFthZAFsYLMgKMyNfeHwk16DmEkpIIcb6A3.png?r=f55);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .box-7 {
+    height: 150px;
+    width: 95%;
+    margin: auto;
+    margin-top: 30px;
+  }
+  .font-10 {
+    font-size: 30px;
+    text-align: center;
+  }
+  .font-11 {
+    font-size: 19px;
+    text-align: center;
+  }
+
+  /* start 5th section */
+
+  .black-5 {
+    height: 920px;
+    background-color: black;
+  }
+  .box-8 {
+    height: 100px;
+    width: 80%;
+    margin: auto;
+  }
+  .font-12 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 35px;
+    padding-top: 40px;
+  }
+  .box-9 {
+    height: 80px;
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #2d2d2d;
+  }
+  .font-13 {
+    padding-top: 20px;
+    padding-left: 25px;
+    font-size: 20px;
+  }
+  .font-14 {
+    font-size: 30px;
+    padding-right: 25px;
+    padding-top: 20px;
+  }
+  .box-10 {
+    height: 70px;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 22px;
+  }
+  .box-11 {
+    height: 150px;
+    width: 90%;
+    margin: auto;
+  }
+  .coustom-input-2 {
+    background-color: black;
+    outline: none;
+    width: 520px;
+    height: 60px;
+  }
+  .coustom-input-2::placeholder {
+    color: white;
+    padding-left: 10px;
+  }
+  .coustom-btn {
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-left: 32%;
+    margin-top: 20px;
+  }
+  .font-15 {
+    font-size: 19px;
   }
 }

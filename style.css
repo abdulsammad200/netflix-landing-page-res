@@ -219,6 +219,30 @@
     font-weight: bolder;
     font-size: 25px;
   }
+  /* start 7th sectionn  */
+
+  .black-6 {
+    height: 400px;
+    width: 100%;
+    background-color: black;
+  }
+  .box-12 {
+    height: 350px;
+    width: 24%;
+  }
+  a {
+    color: white;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+  .coustom-btn-1 {
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    margin-left: 20px;
+    width: 110px;
+  }
 }
 /* desktop */
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -443,6 +467,31 @@
   }
   .font-15 {
     font-size: 19px;
+  }
+
+  /* start 7th sectionn  */
+
+  .black-6 {
+    height: 400px;
+    width: 100%;
+    background-color: black;
+  }
+  .box-12 {
+    height: 350px;
+    width: 24%;
+  }
+  a {
+    color: white;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+  .coustom-btn-1 {
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    margin-left: 20px;
+    width: 110px;
   }
 }
 
@@ -716,6 +765,33 @@
   .font-15 {
     font-size: 19px;
   }
+  /* start 7th sectionn  */
+
+  .black-6 {
+    height: 350px;
+    width: 100%;
+    background-color: black;
+  }
+  .box-12 {
+    height: 330px;
+    width: 23%;
+  }
+  a {
+    color: white;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+  .coustom-btn-1 {
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    margin-left: 20px;
+    width: 110px;
+  }
+  .font-16 {
+    font-size: 15px;
+  }
 }
 
 /* larger smartphones */
@@ -969,5 +1045,34 @@
   }
   .font-15 {
     font-size: 19px;
+  }
+
+  /* start 7th sectionn  */
+
+  .black-6 {
+    height: 300px;
+    width: 100%;
+    background-color: black;
+  }
+  .box-12 {
+    height: 330px;
+    width: 23%;
+  }
+  a {
+    color: white;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+  .coustom-btn-1 {
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    margin-left: 20px;
+
+    font-size: 10px;
+  }
+  .font-16 {
+    font-size: 11px;
   }
 }
